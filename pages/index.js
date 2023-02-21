@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.heddingMd}>
         <p>
-          Almond Latteのブログです。普段はセキュリティ系や競技プログラミングを行っています。
+          Almond Latteのブログです。普段はセキュリティ系や競技プログラミングをしています。大学生です。
         </p>
       </section >
 
